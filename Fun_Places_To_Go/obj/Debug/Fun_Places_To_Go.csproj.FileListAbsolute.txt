@@ -1,0 +1,7 @@
+C:\Users\13135\source\repos\Fun_Places_To_Go\Fun_Places_To_Go\bin\Debug\Fun_Places_To_Go.exe.config
+C:\Users\13135\source\repos\Fun_Places_To_Go\Fun_Places_To_Go\bin\Debug\Fun_Places_To_Go.exe
+C:\Users\13135\source\repos\Fun_Places_To_Go\Fun_Places_To_Go\bin\Debug\Fun_Places_To_Go.pdb
+C:\Users\13135\source\repos\Fun_Places_To_Go\Fun_Places_To_Go\obj\Debug\Fun_Places_To_Go.csprojAssemblyReference.cache
+C:\Users\13135\source\repos\Fun_Places_To_Go\Fun_Places_To_Go\obj\Debug\Fun_Places_To_Go.csproj.CoreCompileInputs.cache
+C:\Users\13135\source\repos\Fun_Places_To_Go\Fun_Places_To_Go\obj\Debug\Fun_Places_To_Go.exe
+C:\Users\13135\source\repos\Fun_Places_To_Go\Fun_Places_To_Go\obj\Debug\Fun_Places_To_Go.pdb
